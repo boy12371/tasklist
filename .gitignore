@@ -1,0 +1,11 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac:
+.DS_Store
+
+# System:
+*.scss
+node_modules/
